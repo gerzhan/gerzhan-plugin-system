@@ -1,0 +1,8 @@
+- [Главная](/)
+- [:page_facing_up: 01. Общее описание](/01_about/README.md)
+- [:page_facing_up: 02. "Дорожная карта"](/02_roadmap/README.md)
+- [:file_folder: 03. Регламент разработки](/03_development/README.md)
+- [:page_facing_up: 04. В работе](/04_work_in_progress/README.md)
+- [:page_facing_up: 05. Релизы](/05_release_notes/README.md)
+- [:file_folder: 06. Обслуживание и поддержка](/06_maintenance_and_support/README.md)
+- [:page_facing_up: 07. Документация для пользователей](/07_user_documentation/README.md)
